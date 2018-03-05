@@ -23,7 +23,7 @@
 * **binarization**
 	* Binarization of regions
 * **Edge detection**
-	*Canny
+	* Canny
 	* sobel
 	* prewitt
 	* roberts
